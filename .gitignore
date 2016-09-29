@@ -1,0 +1,6 @@
+*.pyc
+*.mo
+.idea/
+.project
+.settings/
+db.sqlite3
